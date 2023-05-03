@@ -1,1 +1,1 @@
-# seascore_paper_data
+# Data for seascore paper
